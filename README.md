@@ -41,13 +41,13 @@ Recommendations for the line:
 
 For information on how to set up the line, please refer to [The Line](#line)
 
-1. After turning on the nibo burger, all 4 LED's should turn on.
-2. Then place the burger next to the line on the floor. (Make sure the color sensors **only "see" the floor**)
-3. Now press the *top button* to measure the color of the floor
+1. After turning on the NIBO burger, all 4 LED's should turn on
+2. Then place the burger next to the line on the floor (Make sure the color sensors **only "see" the floor**)
+3. Now press the *top button* (●) to measure the color of the floor
 4. Place it on the center of the line that is intended to be followed
-5. Press the *center button* now
-6. Now move the nibo burger on the line, until both blue LED's constantly shine
-7. Lastly press the *bottom button* to start the programm
+5. Press the *center button* (●●) now
+6. Now move the NIBO burger on the line, until both blue LED's constantly shine
+7. Lastly press the *bottom button* (●●●) to start the programm
 
 <br>
 
